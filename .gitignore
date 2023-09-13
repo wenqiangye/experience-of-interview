@@ -1,3 +1,3 @@
 .exe
 .vscode/
-.code_example/.exe
+.code_example/*.exe
